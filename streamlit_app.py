@@ -198,7 +198,7 @@ def llm_pipeline(filepath):
 def main():
     st.title("Document Summarization App using Language Model")
 
-    user_input = st.text_input("Enter something:")
+    user_input = st.text_input("Enter Company's TICKER on which you wish to do analysis : ")
     ticker_finding (user_input, headers = headers)
     
 
