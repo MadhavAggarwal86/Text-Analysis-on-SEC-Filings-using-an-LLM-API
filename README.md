@@ -44,7 +44,7 @@ To run the code, follow these steps:
    - First of all, download the LLM API from this link (https://drive.google.com/drive/folders/1IcIh94_nsooWbl5RHGZapWBVHf1KJWEn?usp=drive_link) and put it in the same folder where you are going to run the code.
 
 2. **Install Required Libraries**:
-   - All the required Python libraries are listed in the `requirements.txt` file. Run the following command in the terminal or Windows version of the macOS Terminal:
+   - All the required Python libraries are listed in the `requirements.txt` file. Run the following command in the terminal or Command Prompt:
      ```
      pip install -r requirements.txt
      ```
